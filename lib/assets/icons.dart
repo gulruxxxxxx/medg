@@ -1,0 +1,29 @@
+class AppIcons {
+  static const arrow_left = "assets/icons/arrow_left.svg";
+  static const bnb1 = "assets/icons/bnb1.svg";
+  static const bnb2 = "assets/icons/bnb2.svg";
+  static const bnb3 = "assets/icons/bnb3.svg";
+  static const bnb4 = "assets/icons/bnb4.svg";
+  static const bnb5 = "assets/icons/bnb5.svg";
+  static const calendar_left = "assets/icons/calendar_left.svg";
+  static const calendar_right = "assets/icons/calendar_right.svg";
+  static const check = "assets/icons/check.svg";
+  static const emoji = "assets/icons/emoji.svg";
+  static const eye_off = "assets/icons/eye_off.svg";
+  static const eye_on = "assets/icons/eye_on.svg";
+  static const kardiologiya = "assets/icons/kardiologiya.svg";
+  static const logout = "assets/icons/logout.svg";
+  static const neurologiya = "assets/icons/neurologiya.svg";
+  static const not_saved = "assets/icons/not_saved.svg";
+  static const notification = "assets/icons/notification.svg";
+  static const psixologiya = "assets/icons/psixologiya.svg";
+  static const qollab_quvvatlash = "assets/icons/qollab_quvvatlash.svg";
+  static const saqlanganlar = "assets/icons/saqlanganlar.svg";
+  static const search = "assets/icons/search.svg";
+  static const send = "assets/icons/send.svg";
+  static const skrepka = "assets/icons/skrepka.svg";
+  static const tick1 = "assets/icons/tick1.svg";
+  static const tick2 = "assets/icons/tick2.svg";
+  static const voice = "assets/icons/voice.svg";
+  static const closeGreen = "assets/icons/close_green.svg";
+}
